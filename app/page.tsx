@@ -64,7 +64,7 @@ export default function Home() {
             </p>
             <p className="text-[#ACACAC] pt-5 text-sm lg:text-lg font-medium">
               Deploy spl tokens on the solana network, with your metadata stored
-              onchain; <br /> all enabled by the Token-2022 program.
+              onchain; <br /> all enabled by the Token-2022 program. Launch on Pump.Fun! https://t.me/solminterbeta
             </p>
           </div>
           <MintForm provider={provider} address={address} network={network} />
